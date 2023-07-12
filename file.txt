@@ -1,1 +1,2 @@
-Hi, this is my first git demo
+Hi, this is my first git demo.
+This is my 2nd changes
